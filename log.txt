@@ -1,0 +1,6 @@
+Wed Nov 16 16:39:28 MSK 2022 : add.             hash code (before operation) = 1
+Wed Nov 16 16:39:28 MSK 2022 : add.             hash code (before operation) = 36
+Wed Nov 16 16:39:28 MSK 2022 : add.             hash code (before operation) = 1122
+Wed Nov 16 16:39:28 MSK 2022 : iterator.        hash code (before operation) = 34789
+Wed Nov 16 16:39:28 MSK 2022 : remove.          hash code (before operation) = 34789
+Wed Nov 16 16:39:28 MSK 2022 : iterator.        hash code (before operation) = 1123
